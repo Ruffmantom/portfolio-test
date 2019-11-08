@@ -13,8 +13,12 @@ header {
 
 
 }
+#heading{
+    margin-left: 20px;
+}
 #main-bio, #contact-info, #bio-image {
     float: left;
+
 }
 #main-bio {
     width: 70%;
